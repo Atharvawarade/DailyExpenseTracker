@@ -36,3 +36,31 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# IDE Files
+.idea/
+.smarttomcat/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Build Files
+target/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Database Files (if any local)
+*.db
+*.sqlite
+
+# Environment Variables
+.env
