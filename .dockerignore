@@ -1,0 +1,29 @@
+# IDE files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Build files
+target/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+README.md
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Other
+node_modules/
+.env
